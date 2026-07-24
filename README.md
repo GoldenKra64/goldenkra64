@@ -45,7 +45,7 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 <p>
@@ -64,7 +64,7 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ✅ Arquitectura de Microservicios  
 ✅ Event Driven Architecture con RabbitMQ  
 ✅ Bases de datos distribuidas  
-✅ Docker & Kubernetes  
+✅ Docker & Compose
 ✅ Deploy y configuración de entornos  
 ✅ Machine Learning con Python  
 
