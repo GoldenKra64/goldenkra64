@@ -39,7 +39,7 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,angular" />
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,dotnet" />
 </p>
 
 ### ☁️ DevOps & Tools
@@ -61,7 +61,8 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 
 ✅ Desarrollo Full Stack  
 ✅ APIs REST y gRPC  
-✅ Arquitectura de Microservicios  
+✅ Arquitectura de Microservicios 
+✅ Arquitectura y diseño de sistemas
 ✅ Event Driven Architecture con RabbitMQ  
 ✅ Bases de datos distribuidas  
 ✅ Docker & Compose
