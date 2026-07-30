@@ -61,11 +61,13 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 
 ✅ Desarrollo Full Stack  
 ✅ APIs REST y gRPC  
-✅ Arquitectura de Microservicios 
-✅ Arquitectura y diseño de sistemas
-✅ Event Driven Architecture con RabbitMQ  
+✅ Arquitectura de Microservicios  
+✅ Arquitectura y diseño de sistemas  
+
+
+✅ Event Driven Architecture con RabbitMQ    
 ✅ Bases de datos distribuidas  
-✅ Docker & Compose
+✅ Docker & Compose  
 ✅ Deploy y configuración de entornos  
 ✅ Machine Learning con Python  
 
