@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hola, soy Francisco Javier Miguez Tapia</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | Systems Engineering Student | Software Enthusiast
+💻 Systems Engineering Student | DBA | Full-Stack Developer | Project Manager | Software Architect | Cloud Computing | IT 
 </h3>
 
 <p align="center">
-Estudiante de 6to semestre de Ingeniería en Sistemas de la Información. <br>
+Estudiante de 7mo semestre de Ingeniería en Sistemas de la Información. <br>
 Apasionado por el desarrollo de software, la arquitectura de sistemas y la construcción de aplicaciones escalables y eficientes.
 </p>
 
@@ -14,11 +14,11 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas de la Información
-- 💡 Enfocado en desarrollo Full Stack y arquitectura de software
+- 💡 Enfocado en aprender y realizar proyectos
 - ⚙️ Experiencia desarrollando aplicaciones con microservicios y arquitecturas orientadas a eventos
 - ☁️ Conocimientos en despliegue, contenedores y tecnologías cloud-native
-- 📊 También he trabajado con análisis de datos y proyectos de Machine Learning con Python
-- 🧠 Siempre buscando formas más óptimas y escalables de construir software
+- 📊 Trabajado con análisis de datos y proyectos de Machine Learning con Python
+- 🧠 Siempre buscando aprender más sobre los sistemas de información y formas de optimización
 
 ---
 
@@ -27,7 +27,7 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ### 💻 Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=js,cs,java,python,typescript" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -39,20 +39,19 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,angular,dotnet" />
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,dotnet,androidstudio" />
+</p>
+
+### 💾 Database
+
+<p>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql">
 </p>
 
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-<p>
-  🔹 RabbitMQ <br>
-  🔹 gRPC <br>
-  🔹 Microservices Architecture <br>
-  🔹 Event Driven Architecture
+  <img src="https://skillicons.dev/icons?i=docker,rabbitmq" />
 </p>
 
 ---
@@ -63,8 +62,6 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ✅ APIs REST y gRPC  
 ✅ Arquitectura de Microservicios  
 ✅ Arquitectura y diseño de sistemas  
-
-
 ✅ Event Driven Architecture con RabbitMQ    
 ✅ Bases de datos distribuidas  
 ✅ Docker & Compose  
@@ -74,17 +71,24 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ---
 
 ## 📌 Proyectos Destacados
+### 🧾 Factunet ⭑
+<img src="https://skillicons.dev/icons?i=kotlin,spring,typescript,react,docker" />
+Plataforma SaaS de facturación y firma electrónica integrada con el SRI, enfocado para emprendedores y pequeñas empresas, otorgando Dashboards para fomentar la toma de decisiones
 
 ### ✍️ Firma Aquí
+<img src="https://skillicons.dev/icons?i=dotnet,cs,ubuntu" />
 Sistema de firma electrónica para Ecuador que permite almacenar firmas electrónicas en la nube de forma segura.
 
 ### 👨‍🏫 ProfeConnect
+<img src="https://skillicons.dev/icons?i=js,nodejs,vue,androidstudio" />
 Red social para docentes de la institución Fe y Alegría, diseñada para compartir experiencias y buenas prácticas utilizando la metodología BML de Lean Startup.
 
 ### 🛒 DAF
+<img src="https://skillicons.dev/icons?i=js,nodejs,html" />
 E-Commerce híbrido desarrollado utilizando bases de datos distribuidas.
 
 ### 🛰️ Atraxia
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular" />
 Aplicación de reservas construida con microservicios, Docker, gRPC y RabbitMQ utilizando arquitectura en capas.
 
 ---
