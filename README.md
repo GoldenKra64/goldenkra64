@@ -33,13 +33,13 @@ Apasionado por el desarrollo de software, la arquitectura de sistemas y la const
 ### ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,angular,dotnet,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,dotnet,androidstudio,flutter" />
 </p>
 
 ### 💾 Database
@@ -88,7 +88,7 @@ Red social para docentes de la institución Fe y Alegría, diseñada para compar
 E-Commerce híbrido desarrollado utilizando bases de datos distribuidas.
 
 ### 🛰️ Atraxia
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,rabbitmq" />
 Aplicación de reservas construida con microservicios, Docker, gRPC y RabbitMQ utilizando arquitectura en capas.
 
 ---
